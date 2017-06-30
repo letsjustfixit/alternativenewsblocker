@@ -63,7 +63,7 @@
 ##a[href*="vicces-humoros.com"]
 ##a[href*="vidnline.com"]
 ##a[href*="vilaghelyzete.blogspot.com"]
-##a[href*="www.vilaglato.info"]
+##a[href*="vilaglato.info"]
 ##a[href*="vilagpolgarok.blogspot.hu"]
 ##a[href*="mindenegyben-blog.com"]
 ##a[href*="mindenegyben-blog.net"]
@@ -79,4 +79,9 @@
 !
 !megtekintéshez megosztás szükséges
 !
-##a[href*="http://dosszie.com"]
+##a[href*="dosszie.com"]
+!
+!oldalak a facebookról
+!
+##a[href*="fm3cafe.hu"]
+##a[href*="magyarkozosseg.net"]
